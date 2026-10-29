@@ -1,0 +1,85 @@
+{
+  "window": 25.0,
+  "switch": 25.0,
+  "switch_reason": "25 s up",
+  "critical": {
+    "I2": {
+      "visit_start": 7.674999999998473,
+      "visit_end": 8.674999999998473,
+      "save_start": 9.929999999998024,
+      "save_end": 11.929999999998024,
+      "visit_box": 0.225,
+      "save_box": 0.125,
+      "counts": true
+    },
+    "J9": {
+      "visit_start": 22.42500000000026,
+      "visit_end": 23.42500000000026,
+      "save_start": null,
+      "save_end": null,
+      "visit_box": 0.225,
+      "save_box": null,
+      "counts": false
+    },
+    "B10": {
+      "visit_start": null,
+      "visit_end": null,
+      "save_start": null,
+      "save_end": null,
+      "visit_box": null,
+      "save_box": null,
+      "counts": false
+    }
+  },
+  "stable": {
+    "B2": {
+      "visit_start": 60.16500000000196,
+      "visit_end": 61.16500000000196,
+      "save_start": 62.24500000000007,
+      "save_end": 64.24500000000006,
+      "visit_box": 0.225,
+      "save_box": 0.125,
+      "counts": true
+    },
+    "J6": {
+      "visit_start": 31.715000000005013,
+      "visit_end": 32.71500000000501,
+      "save_start": 33.79500000000608,
+      "save_end": 35.79500000000608,
+      "visit_box": 0.25,
+      "save_box": 0.125,
+      "counts": true
+    },
+    "F10": {
+      "visit_start": 44.93000000001177,
+      "visit_end": 45.93000000001177,
+      "save_start": 47.06000000001286,
+      "save_end": 49.06000000001287,
+      "visit_box": 0.225,
+      "save_box": 0.125,
+      "counts": true
+    }
+  },
+  "landing": {
+    "landed": true,
+    "touchdown_time": 78.07999999998566,
+    "xy_error": 0.0030408122598466125,
+    "final_z_world": 0.17489224252552582,
+    "hover_start": 72.83499999999043
+  },
+  "saved": 4,
+  "overall": true,
+  "client": {
+    "saved_critical": [
+      "I2"
+    ],
+    "switch_time": 25.0,
+    "switch_reason": "25 s up",
+    "switch_position": [
+      4.795400571557767,
+      -3.6388119743650544,
+      14.005419980557276
+    ],
+    "cancelled_goal": "save J9"
+  }
+}
